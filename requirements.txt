@@ -1,2 +1,2 @@
 streamlit
-experta==1.0.7
+experta
